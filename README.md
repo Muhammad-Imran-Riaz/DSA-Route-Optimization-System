@@ -173,7 +173,7 @@ This project helped strengthen understanding of:
 ---
 # Repository
 GitHub Repository:
-https://github.com/Aizaz-01/DSA-Project-Route-Optimization-System-
+[https://github.com/Muhammad-Imran-Riaz/DSA-Route-Optimization-Syatem]
 ---
 # Developer
 ## M.Imran Riaz
