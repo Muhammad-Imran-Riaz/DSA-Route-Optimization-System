@@ -45,12 +45,19 @@ The system reads input from:
 |6.txt|
 ## Format:
 |Fateh_Jang Islamabad Lahore Karachi Peshawar Quetta|
+
 |0   25  45  110  35  65|
+
 |25  0   30  85   40  95|
+
 |45  30  0   40   55  80|
+
 |110 85  40  0    70  60|
+
 |35  40  55  70   0   30|
+
 |65  95  80  60   30  0|
+
 ---
 # Algorithms Used
 ## Greedy Algorithm
